@@ -39,7 +39,7 @@ this chatbot helps users express their concerns and receive empathetic and intel
 Chatbot/
 ├── client/             # React Frontend
 ├── server/             # Node.js Backend
-├── chatbot-agent/      # Dialogflow Agent Files (optional)
+├── chatbot-agent/      # Dialogflow Agent Files 
 ├── .env                # Environment Variables
 ├── README.md
 ```
